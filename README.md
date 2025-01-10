@@ -73,3 +73,5 @@ The **Survive Game** is a mobile game project assigned as part of a mobile secur
 ### Video
 
 https://github.com/user-attachments/assets/c4a867a1-d319-4daa-91bb-cd6474dfe1bf
+
+## The state I reached is Pennsylvania.
