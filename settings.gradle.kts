@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Apk-Decoding"
+rootProject.name = "Survival-Game-Mobile"
 include(":app")
